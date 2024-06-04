@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../tic tac project"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../DSA C++"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop",
+		"liveServer.settings.port": 5501
+	}
+}
